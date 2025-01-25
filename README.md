@@ -42,7 +42,7 @@ A modern web browser with JavaScript enabled.
 
 📸 Screenshots
 
-![Screenshot of Tick-It](assets/ss.png)
+![Screenshot of Tick-It](images/ss.png)
 
 
 💡 How It Works
