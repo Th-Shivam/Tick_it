@@ -41,15 +41,6 @@ A modern web browser with JavaScript enabled.
         Begin adding tasks and enjoy staying organized!
 
 📸 Screenshots
-Feature	Screenshot
-Task List	
-📂 File Structure
-
-Tick-It/
-├── index.html       # Main HTML file
-├── style.css        # CSS file for styling
-├── script.js        # JavaScript file for functionality
-└── README.md        # Project documentation
 
 💡 How It Works
 
@@ -71,12 +62,14 @@ We welcome contributions to enhance Tick-It! Here’s how you can contribute:
 
     Fork the repository.
     Create a new branch:
-
-git checkout -b feature/your-feature-name
-
+    git checkout -b feature/your-feature-name
+   
 Commit your changes:
-
+   ```bash
 git commit -m "Add your feature description"
+```
+
+
 
 Push to your branch:
 
