@@ -42,6 +42,9 @@ A modern web browser with JavaScript enabled.
 
 📸 Screenshots
 
+![Screenshot of Tick-It](assets/ss.png)
+
+
 💡 How It Works
 
     Adding a Task:
@@ -89,7 +92,7 @@ If you encounter any issues or have feature requests, feel free to open an issue
 ---
 
 ### Notes:
-- Replace placeholders like `https://github.com/yourusername/tick-it.git` and `path/to/task-list.png` with actual URLs and paths.
+- Replace placeholders like `https://github.com/yourusername/Tick_it.git` and `path/to/task-list.png` with actual URLs and paths.
 - You can add features like dark mode later, and the README can be updated accordingly. 
 
 This README now reflects the app’s current feature set!
